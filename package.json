@@ -1,0 +1,28 @@
+{
+  "name": "otus-solidity-task-8",
+  "version": "1.0.0",
+  "description": "Учебный контракт для создания NFT в соответствии со стандартом ERC-721",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpalex999/otus-solidity-task-8.git"
+  },
+  "keywords": [
+    "solidity"
+  ],
+  "author": "vpalex999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpalex999/otus-solidity-task-8/issues"
+  },
+  "homepage": "https://github.com/vpalex999/otus-solidity-task-8#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "eslint": "^9.20.0",
+    "hardhat": "^2.22.18",
+    "solhint": "^5.0.5"
+  }
+}
